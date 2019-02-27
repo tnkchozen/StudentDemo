@@ -13,6 +13,8 @@ public class StudentDemo
 {
   private String studentID;
   private String name;
+  private String address;
+  private int grade;
   
   /**
    * A constructor to pass in the given ID and then name
